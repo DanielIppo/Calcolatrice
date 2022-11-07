@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\bin\Debug\Calcolatrice con GUI.exe.config
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\bin\Debug\Calcolatrice con GUI.exe
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\bin\Debug\Calcolatrice con GUI.pdb
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice con GUI.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice con GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice_con_GUI.Form1.resources
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice_con_GUI.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice con GUI.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice con GUI.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice con GUI.exe
+C:\Users\Daniel\Desktop\Programmazione\C#\Corso n°1\Calcolatrice con GUI\Calcolatrice con GUI\obj\Debug\Calcolatrice con GUI.pdb
